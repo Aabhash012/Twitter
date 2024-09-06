@@ -1,7 +1,7 @@
 # Twitter
 This project is focused on performing sentiment analysis on Twitter data. Sentiment analysis involves determining the sentiment or emotion expressed in a piece of text, in this case, tweets. By analyzing the sentiment of tweets, we can gain insights into public opinion, brand perception, and other valuable information.
 
-Getting Started
+# Getting Started
 To get started with the project, follow these steps:
 
 1-Clone the repository
